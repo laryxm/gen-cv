@@ -175,3 +175,6 @@ sam*.pth
 **/*.amlignore*
 **/*.ipynb_aml_checkpoints*
 **/*amltmp
+
+# Avatar
+avatar/interactive/api/local.settings.json
